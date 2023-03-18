@@ -18,7 +18,7 @@
 - iGPU: Intel UHD Graphic 630
 - HDA: Realtek ALC233
 - SSD: WD SN750 512G
-- LAN: Realtek RTL8111HSD
+- LAN: Intel Ethernet Connection I219-LM
 - WLAN: BCM94360CS2
 
 
