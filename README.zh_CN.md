@@ -18,7 +18,7 @@
 - 显卡: 英特尔® 超核芯显卡 630
 - 声卡: Realtek ALC233
 - 硬盘: 西数黑盘 SN750 512G
-- 网卡: Intel
+- 网卡: Intel Ethernet Connection I219-LM
 - 无线: BCM94360CS2（白果拆机卡）
 
 
